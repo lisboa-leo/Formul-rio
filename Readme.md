@@ -13,4 +13,6 @@ Para criar esse formulário, eu utilizei as linguagens HTML e CSS. O HTML foi us
 - ``HTML``
 - ``CSS``
 
+Obrigado(a) por ler sobre o meu projeto e espero que isso inspire outras pessoas a experimentar a programação.
+
 
