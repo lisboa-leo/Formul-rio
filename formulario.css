@@ -53,8 +53,10 @@ input, select, textarea, button {
 }
 
 fieldset.grupo .campo{
+    display: flex;
     margin-right:1em;
 }
+
 
 .campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea {
     padding: 0.2em;
@@ -71,6 +73,11 @@ fieldset.grupo .campo{
     background: #e0e0F8;
 }
 
+.grupoa{
+    display: flex;
+    margin: auto;
+}
+
 .botao {
     font-size: 1.2em;
     background: #59429d;
@@ -82,6 +89,7 @@ fieldset.grupo .campo{
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
     display: flex;
     margin: auto;
+    margin-top: 1em;
 }
 
 .botao:hover {
